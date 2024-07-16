@@ -1,0 +1,42 @@
+.signin-bg{
+    background-image: url("https://www.semikart.com/img/new2018/home/bom/SigninSignupBG.svg");
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: center top -15px;
+}
+.head2 {
+    font-family: 'Product Sans Bold';
+    font-size: 42px;
+    
+}
+
+
+
+.pt-5, .py-5 {
+    padding-top: 3rem !important;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+.regular-16 {
+    font-family: 'Product Sans Regular';
+    font-size: 16px;
+    color: #464646;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
